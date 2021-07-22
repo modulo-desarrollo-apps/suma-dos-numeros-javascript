@@ -9,5 +9,5 @@ var B = prompt('Ingresa el valor de B')
 // Realizamos la suma.
 var C = A + B
 
-// Mostramos el resultado de la suma de A y B.
+// Mostramos el valor de la variable C (que contiene la suma de A y B).
 console.log(`La suma de ${A} + ${B} es ${C}`)
