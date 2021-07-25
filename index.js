@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')() // Incluímos la librería.
+const prompt = require('prompt-sync')() // Incluimos la librería.
 
 // Le preguntamos al usuario el número A.
 var A = prompt('Ingresa el valor de A: ')
